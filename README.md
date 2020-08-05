@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ajoydas/ajoydas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+Welcome to my Github profile. Here you will find all the works I publicly did and doing right now.
+- 🔭 I’m currently working on - projects in Chainsafe
+- 🌱 I’m actively learning - ml, dl, blockchain technologies, devops
+- 👯 I’m looking to collaborate on - research projects, blockchain or devops related projects
+- 💬 Ask me about blockchain, devops
+- 📫 How to reach me: mail me
+- ⚡ Fun fact: I am always hungry!
