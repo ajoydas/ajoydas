@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 Welcome to my Github profile. Here you will find all the works I publicly did and doing right now.
-- 🔭 I’m currently working on - projects in Chainsafe
+- 🔭 I’m currently working on - research projects in University of Calgary
 - 🌱 I’m actively learning - ml, dl, blockchain technologies, devops
 - 👯 I’m looking to collaborate on - research projects, blockchain or devops related projects
-- 💬 Ask me about blockchain, devops
+- 💬 Ask me about software engineering, blockchain, ml, devops
 - 📫 How to reach me: mail me
 - ⚡ Fun fact: I am always hungry!
