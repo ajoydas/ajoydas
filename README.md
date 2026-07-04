@@ -1,6 +1,6 @@
 # Hi, I'm Ajoy Das 👋
 
-**Senior Software Developer @ [Corvian](https://corvian.com) 🇨🇦 — building agentic AI for agriculture**
+**Senior Software Developer @ [Corvian](https://corvian.com) 🇨🇦 — building agentic AI solutions and backend systems**
 
 <p>
   <a href="https://ajoydas.com"><img src="https://img.shields.io/badge/Website-ajoydas.com-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
@@ -13,13 +13,13 @@
 
 ### 🚀 About Me
 
-- 🤖 Lead developer of **[Corvian AI Agents](https://corvian.com/ai-agents)** — multi-agent systems (LangGraph) that turn handwritten farm records into structured, confidence-scored enterprise data
+- 🤖 Leading development of several projects within Corvian including **[Corvian AI Agents](https://corvian.com/ai-agents)** — multi-agent systems (LangGraph) that turn handwritten farm records into structured, confidence-scored enterprise data
 - ☁️ Focused on backend systems architecture, GenAI/agentic AI applications, and cloud-native infrastructure on **Google Cloud**
 - 🌱 Currently exploring agent frameworks and interoperability — **Google ADK**, **MCP**, and agent evaluation
 - 🎓 M.Sc. in Software Engineering (University of Calgary); published research on ML fairness in **[ACM TOSEM](https://dl.acm.org/doi/10.1145/3765735)**
 - 💬 Ask me about GenAI & AI agents, GCP, Kubernetes, and backend development with Python/Go
 - ✍️ I write about cloud, AI, and software engineering at **[ajoydas.com/blog](https://ajoydas.com/blog/)**
-- 📸 Beyond code, I'm an amateur [photographer](https://ajoydas.com/photography/) — and ⚡ fun fact: I am always hungry!
+- 📸 Beyond code, I'm an amateur [photographer](https://ajoydas.com/photography/) — and ⚡ fun fact: I am always hungry for food and travel!
 
 ### 🛠️ Tech Stack
 
@@ -66,10 +66,10 @@
 
 ### 📜 Certifications
 
-- ☁️ **Google Cloud Certified — Professional Cloud Architect** (2024)
-- 📊 **Google Cloud Certified — Professional Data Engineer** (2024)
-- ☸️ **Certified Kubernetes Application Developer (CKAD)** — scored 96% (2026)
-- 🔐 **Okta Certified Customer Identity Cloud Developer** (2025)
+- ☁️ **Google Cloud Certified — Professional Cloud Architect**
+- 📊 **Google Cloud Certified — Professional Data Engineer**
+- ☸️ **Certified Kubernetes Application Developer (CKAD)** — scored 96%
+- 🔐 **Okta Certified Customer Identity Cloud Developer**
 
 More details at [ajoydas.com/certifications](https://ajoydas.com/certifications/)
 
