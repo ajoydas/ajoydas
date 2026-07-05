@@ -83,11 +83,11 @@ More details at [ajoydas.com/certifications](https://ajoydas.com/certifications/
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the AI Headlines: SRE, Security, Infra & Data Learnings from Cloud Next 2026 🌐](https://ajoydas.com/blog/google-cloud-next-2026-learnings)
+- [Beyond the AI Headlines: SRE, Security, Infra &amp;amp; Data Learnings from Cloud Next 2026 🌐](https://ajoydas.com/blog/google-cloud-next-2026-learnings)
 - [Evaluating Agent Frameworks in 2026: What Changed at Google Cloud Next 🤖](https://ajoydas.com/blog/agent-frameworks-adk-deep-dive)
 - [The Certified Lounge — an Underrated Perk of Staying Google Cloud Certified ☕](https://ajoydas.com/blog/certified-lounge-google-cloud-next)
 - [My Top 3 Takeaways from Google Cloud Next 2026 🚀](https://ajoydas.com/blog/google-cloud-next-2026-recap)
-- [Passed the Certified Kubernetes Application Developer (CKAD) Exam with 96%! 🚀](https://ajoydas.com/blog/ckad-certification)
+- [Las Vegas Bound: Heading to Google Cloud Next 2026! ✈️](https://ajoydas.com/blog/heading-to-google-cloud-next-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at [ajoydas.com/blog](https://ajoydas.com/blog/)
